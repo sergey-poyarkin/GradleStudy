@@ -2,3 +2,7 @@
 .idea
 /out/
 /target/
+build/
+api/build
+db/build
+service/build
